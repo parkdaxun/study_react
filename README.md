@@ -1,3 +1,5 @@
 # study_react
 
-학교에서 하는 전공 수업 => React
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+
+Study React in school !
